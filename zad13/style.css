@@ -1,0 +1,55 @@
+.navbar{
+margin: 20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', ;
+}
+
+ul li{
+    display: inline-block;
+    float: right;
+    margin-right: 50px;
+    margin: 20px 50px;
+   
+}
+ul li a{
+ text-decoration: none;
+ font-size: 30px;
+ font-family: 'Courier New',  ;
+}
+
+.nav-container{
+display: inline;
+max-width: 1200px;
+align-items: center;
+justify-content: space-between;
+}
+
+#logo img{
+    width: 90px;
+    height: auto;
+    margin-top: 10px;
+}
+body{
+    background-color: aquamarine;
+    background-image: url(sea-5499649_1280.jpg);
+}
+.galeria , img{
+    width: 220px;
+
+    
+
+}
+img:hover{
+    transform: scale(1,2);
+
+}
+body:hover{
+    background-color: green;
+}
+footer{
+    text-align: center;
+    color: aquamarine;
+    font-size: 30px;
+}
+h1{
+    color: cyan;
+}
